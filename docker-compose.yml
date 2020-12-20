@@ -1,0 +1,10 @@
+version: "3"
+
+services:
+  express-server:
+    build: ./projet-vuejs-dawin-backend
+    command: nodemon server.js
+    volumes:
+      - ./projet-vuejs-dawin-backend:/app
+    ports:
+      - "3000:3000"
