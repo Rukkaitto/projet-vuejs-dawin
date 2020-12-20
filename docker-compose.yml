@@ -12,6 +12,6 @@ services:
     build: ./projet-vuejs-dawin-frontend
     volumes:
       - ./projet-vuejs-dawin-frontend:/app/ui
-      - ./projet-vuejs-dawin-frontend/node_modules:/app/ui/node_modules
+      - /app/ui/node_modules
     ports:
       - "8080:8080"
