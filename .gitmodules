@@ -1,0 +1,6 @@
+[submodule "projet-vuejs-dawin-backend"]
+	path = projet-vuejs-dawin-backend
+	url = https://github.com/Rukkaitto/projet-vuejs-dawin-backend
+[submodule "projet-vuejs-dawin-frontend"]
+	path = projet-vuejs-dawin-frontend
+	url = https://github.com/Rukkaitto/projet-vuejs-dawin-frontend
