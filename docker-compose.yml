@@ -5,7 +5,6 @@ services:
     command: nodemon server.js
     volumes:
       - ./projet-vuejs-dawin-backend:/app/api
-      - ./projet-vuejs-dawin-backend/node_modules:/app/api/node_modules
     ports:
       - "3000:3000"
     links:
@@ -14,7 +13,6 @@ services:
     build: ./projet-vuejs-dawin-frontend
     volumes:
       - ./projet-vuejs-dawin-frontend:/app/ui
-      - ./projet-vuejs-dawin-frontend/node_modules:/app/ui/node_modules
     ports:
       - "8080:8080"
     links:
