@@ -1,4 +1,4 @@
-# Projet VueJS DAWIN
+# Projet VueJS DAWIN (Lucas Goudin)
 
 ## Cloner le projet
 
