@@ -1,28 +1,28 @@
 [
   {
     "title": "Interstellar",
-    "year": "2014",
-    "language": "EN",
     "director": {
       "name": "Christopher Nolan",
       "nationality": "British",
       "birthDate": "1970"
     },
     "genre": "Science Fiction",
+    "language": "EN",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
     "rating": 4,
-    "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg"
+    "year": "2014"
   },
   {
     "title": "Joker",
-    "year": "2019",
-    "language": "EN",
     "director": {
       "name": "Todd Phillips",
       "nationality": "American",
       "birthDate": "1970"
     },
     "genre": "Psychological Thriller",
+    "language": "EN",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
     "rating": 4.5,
-    "posterUrl": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg"
+    "year": "2019"
   }
 ]
